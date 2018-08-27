@@ -1,3 +1,0 @@
-include Base.dep
-include Derived.dep
-include rtsTest.dep

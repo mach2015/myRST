@@ -1,4 +1,0 @@
-SOURCE = \
-Base.C\
-Derived.C\
-rtsTest.C
