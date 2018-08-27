@@ -1,0 +1,4 @@
+LOCAL_OBJECTS = \
+Base.o\
+Derived.o\
+rtsTest.o

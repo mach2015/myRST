@@ -1,0 +1,4 @@
+DEPENDENCIES = \
+Base.dep\
+Derived.dep\
+rtsTest.dep

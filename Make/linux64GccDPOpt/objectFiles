@@ -1,0 +1,4 @@
+OBJECTS = \
+$(OBJECTS_DIR)/Base.o\
+$(OBJECTS_DIR)/Derived.o\
+$(OBJECTS_DIR)/rtsTest.o
